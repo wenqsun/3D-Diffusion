@@ -14,6 +14,10 @@ Taxonomy: the type of output, representation,
 This series of papers aim to leverage the 2D diffusion models (pre-trained or train from scratch) to generate high-quality and diverse 
 
 ### Text-to-3D using Pre-trained Image Diffusion Models
+1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) 🌟🌟🌟🌟🌟 $\textit{ICLR 2023 Outstanding Paper Award}$\
+   This paper firstly proposes using SDS to generate 3D contents based on the pre-trained diffusion models.
+2. [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/) 🌟🌟🌟🌟 $\textit{CVPR 2023}$\
+   Based on the SDS, they propose 
 
 ### Adapting Image Models for Multi-view Synthesis
 
