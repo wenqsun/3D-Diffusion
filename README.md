@@ -1,5 +1,5 @@
 # Repository for 3D Diffusion Generation Research
-This is a repository for 3D Diffusion Generation research papers.
+This is a repository for 3D Diffusion Generation research papers digest. The taxonomy and papers highly refer the repo: https://github.com/cwchenwang/awesome-3d-diffusion?tab=readme-ov-file
 
 ## Survey Paper
 1. [state of the art on diffusion models for visual computing](https://arxiv.org/abs/2310.07204) 🌟🌟🌟🌟🌟 \
