@@ -22,9 +22,16 @@ This series of papers aim to leverage the 2D diffusion models (pre-trained or tr
    They
 5. [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213) 🌟🌟🌟🌟🌟 $\textit{NeurIPS 2023 Spotlight}$\
    This paper proposes the VSD to enhance the quality and diversity of 3D contents.
+6. [NFSD: Noise Free Score Distillation](https://arxiv.org/abs/2310.17590) 
 
 ### Adapting Image Models for Multi-view Synthesis (Image-to-3D)
-1. 
+1. [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663) 🌟🌟🌟 $\textit{CVPR 2023}$\
+
+2. [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328)
+   Zero-shot transfer, single image input, and 3D generation content.
+3. [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://arxiv.org/abs/2306.17843) 🌟🌟🌟🌟 $\textit{ICCV 2023}$\
+
+4. 
 
 ### 3D-Aware Image Diffusion
 
