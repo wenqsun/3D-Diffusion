@@ -1,6 +1,10 @@
-# Large-Model-Research
-Given that large models have become a prevalent trend in current deep learning infrastructures, how can general researchers ensure that they stay up-to-date and not fall behind the curve? Therefore, I create this repository to collect some resources about some potential directions.
+# Reposirory for 3D Diffusion Generation Research
+This is a repository for 3D Diffusion Generation research papers.
 
-## Modular Deep learning
-### Survey paper
-[Modular Deep Learning](https://arxiv.org/pdf/2302.11529.pdf)
+## Survey Paper
+1. [state of the art on diffusion models for visual computing](https://arxiv.org/abs/2310.07204) 🌟🌟🌟🌟🌟 \
+   This survey paper provides insightful introductions about diffusion models and its applications, including 2D, 3D, video, and 4D.
+
+## Direct 3D Generation via Diffusion Models
+
+## 
