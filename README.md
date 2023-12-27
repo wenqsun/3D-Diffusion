@@ -11,4 +11,11 @@ This series of papers are focused on modeling the distribution of 3D shapes. Eve
 Taxonomy: the type of output, representation,  
 
 ## Multiview 2D-to-3D Generation via Diffusion Models
+This series of papers aim to leverage the 2D diffusion models (pre-trained or train from scratch) to generate high-quality and diverse 
+
+### Text-to-3D using Pre-trained Image Diffusion Models
+
+### Adapting Image Models for Multi-view Synthesis
+
+### 3D-Aware Image Diffusion
 
