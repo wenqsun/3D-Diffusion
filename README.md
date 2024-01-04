@@ -10,10 +10,9 @@ This series of papers are focused on modeling the distribution of 3D shapes. Eve
 <img width="1310" alt="image" src="https://github.com/wenqsun/3D-Diffusion/assets/93043187/21e134a2-a110-40aa-9638-1cd9bc11e8bc">
 Taxonomy: the type of output, representation,  
 
-## Multiview 2D-to-3D Generation via Diffusion Models
-This series of papers aim to leverage the 2D diffusion models (pre-trained or train from scratch) to generate high-quality and diverse 3D content. In this mode, the 3D contents are not generated directly by diffusion models.
+## 3D Generation by Score Distillation
+This series of papers aim to leverage the 2D diffusion models (pre-trained or train from scratch) to generate high-quality and diverse 3D content. In this mode, the 3D contents are not generated directly by diffusion models. Especially, they try to leverage the score information from 2D diffusion models to optimize the 3D reconstructor.
 
-### Text-to-3D using Pre-trained Image Diffusion Models (Text-to-3D)
 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) 🌟🌟🌟🌟🌟 $\textit{ICLR 2023 Outstanding Paper Award}$\
    This paper firstly proposes using SDS to generate 3D contents based on the pre-trained diffusion models. (NeRF)
 2. [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/) 🌟🌟🌟🌟 $\textit{CVPR 2023}$\
@@ -24,7 +23,9 @@ This series of papers aim to leverage the 2D diffusion models (pre-trained or tr
    This paper proposes the VSD to enhance the quality and diversity of 3D contents. (NeRF & Mesh)
 6. [NFSD: Noise Free Score Distillation](https://arxiv.org/abs/2310.17590) 
 
-### Adapting Image Models for Multi-view Synthesis (Image-to-3D)
+## Multi-view Diffusion (Image-to-3D)
+This series
+
 1. [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663) 🌟🌟🌟 $\textit{CVPR 2023}$\
    Reconstruction loss and SDS are used to reconstruct the object based on a given image.
 2. [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328) 🌟🌟🌟🌟🌟 $\textit{ICCV 2023}$\
