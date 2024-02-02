@@ -44,7 +44,7 @@ These works aim to train/fine-tune a diffusion model to generate multi-view imag
    Fine-tune a pre-trained diffusion model to output consistent color images and normal maps and synthesize 3D model based on th cross-domian images (SDF, .etc.)
    
 
-### 3D-Aware Image Diffusion (2D + 3D diffusion priors)
+### 3D-Aware Image Diffusion (2D + 3D diffusion)
 1. [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://openreview.net/forum?id=UyNXMqnN3c) 🌟🌟🌟🌟🌟
 
 ## Generalizable Architecture
