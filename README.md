@@ -14,7 +14,7 @@ Taxonomy: the type of output, representation,
 
 ### Mesh
 
-## 3D Generation by Score Distillation 
+## Optimization-based generation via Score Distillation Sampling 
 This series of papers aim to leverage the 2D diffusion models (pre-trained or train from scratch) to generate high-quality and diverse 3D content. In this mode, the 3D contents are not generated directly by diffusion models. Especially, they try to leverage the score information from 2D diffusion models to optimize the 3D reconstructor.
 
 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) 🌟🌟🌟🌟🌟 $\textit{ICLR 2023 Outstanding Paper Award}$\
@@ -27,7 +27,7 @@ This series of papers aim to leverage the 2D diffusion models (pre-trained or tr
    This paper proposes the (Variational Score Distillation) VSD to enhance the quality and diversity of 3D contents. (NeRF & Mesh)
 6. [NFSD: Noise Free Score Distillation](https://arxiv.org/abs/2310.17590) 
 
-## Multi-view Diffusion (Directly use or combined with SDS)
+## Multi-view Diffusion
 These works aim to train/fine-tune a diffusion model to generate multi-view images given single image. Regrading to the model and output, these works are roughly divided into three categories. First, the output is color images with 3D consistency based on 2D diffusion models. Second, the output is color images and geometry images (depth image, normal map, .etc.) based on 2D diffusion models. Third, the information from 2D and 3D diffusion models are combined together.
 
 ### Multi-view color images
